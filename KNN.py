@@ -25,7 +25,7 @@ dataset.head()
 dataset.columns
 
 
-# In[6]:
+# In[6]
 
 
 dataset[['Age']]
