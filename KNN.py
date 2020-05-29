@@ -7,7 +7,7 @@
 import pandas as pd
 
 
-# In[2]:
+# In[2]
 
 
 dataset = pd.read_csv("Social_Network_Ads.csv")
