@@ -13,7 +13,7 @@ import pandas as pd
 dataset = pd.read_csv("Social_Network_Ads.csv")
 
 
-# In[4]:
+# In[4]
 
 
 dataset.head()
